@@ -1,23 +1,28 @@
 # SCT_DS_1 – Data Visualization Task
 
-This repository contains Task 1 of the SkillCraft Technology Data Science Internship.
+This repository contains **Task 1** of the SkillCraft Technology Data Science Internship.
 
-## 📌 Task Description
-The objective of this task is to perform data visualization using Python by analyzing a real-world dataset. A histogram is created to understand the distribution of book ratings and identify trends in reader preferences.
-
-## 🧰 Tools & Technologies Used
-- Python
-- Pandas
-- Matplotlib
-- Jupyter Notebook
+## 📌 Objective
+To analyze and visualize book rating data using Python and understand the distribution of ratings across different categories.
 
 ## 📊 Dataset
-The dataset contains information about books including ratings and other attributes.  
-It was used to analyze how book ratings are distributed across different ranges.
+The dataset used contains information about books and their ratings.  
+The data was cleaned and analyzed to identify how book ratings are distributed.
 
-## 📈 Output
-A histogram visualization showing the distribution of book ratings.  
-Most books fall between the 3.5–4.5 rating range, indicating positive reader feedback.
+## 🛠 Tools & Technologies
+- Python  
+- Pandas  
+- Matplotlib  
+- Jupyter Notebook  
 
-## ✅ Conclusion
-This task helped in understanding how to visualize numerical data effectively and interpret insights using Python libraries.
+## 📈 Visualization
+A histogram/bar chart was created to visualize:
+- Distribution of book ratings
+- Frequency of books in different rating ranges
+
+## 📂 Files Included
+- `task1.ipynb` – Python notebook containing code and visualizations  
+- `books.csv` – Dataset used for analysis  
+
+## ✅ Outcome
+This task helped in understanding data preprocessing, visualization techniques, and interpreting patterns from real-world datasets.
